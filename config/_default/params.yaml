@@ -15,7 +15,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Mengfu Han personal website'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -77,3 +77,9 @@ features:
 # 自定义样式
 custom_css:
   - css/custom.css
+
+outputs:
+  home:
+    - HTML
+    - RSS  # 不加 Sitemap，避免自动生成
+
