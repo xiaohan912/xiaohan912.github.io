@@ -18,6 +18,6 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /website/research/CV_202504.pdf
+        url: /research/CV_202504.pdf
       
 ---
