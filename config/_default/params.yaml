@@ -78,8 +78,3 @@ features:
 custom_css:
   - css/custom.css
 
-outputs:
-  home:
-    - HTML
-    - RSS  # 不加 Sitemap，避免自动生成
-
