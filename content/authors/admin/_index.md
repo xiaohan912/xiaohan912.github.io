@@ -49,4 +49,4 @@ I am an incoming Ph.D. student in the [Department of Agricultural and Applied Ec
 
 My research focuses on assessing the climate risks, including physical and transition risks faced by rural banks and the effectiveness of adaptation by farmers and small and medium-sized enterprises (SMEs) to climate change.
 
-I received my M.A. in Environmental Economics from Renmin University of China and B.A. in Economics from Wuhan University. Prior to the University of Georgia, I was a Research Fellow at the [Environmental Research Center](https://env.dukekunshan.edu.cn/) of [Duke Kunshan University](https://www.dukekunshan.edu.cn/).
+Before joining the University of Georgia, I was a Research Fellow at the [Environmental Research Center](https://env.dukekunshan.edu.cn/) of [Duke Kunshan University](https://www.dukekunshan.edu.cn/).
