@@ -105,22 +105,27 @@ article.prose {
 }
 
 /* ================= 个人头像样式 ================= */
-/* 解除外层容器的宽度限制 */
-.resume-biography > div:first-child {
+/* 解除头像父容器的限制 */
+.resume-biography > div {
+  flex: initial !important;
   max-width: none !important;
   width: auto !important;
-  flex: initial !important;
 }
 
+/* 或者精准锁定那个限制宽度的容器 */
+.resume-biography > div.flex-none {
+  flex: initial !important;
+  max-width: none !important;
+  width: auto !important;
+}
 
-
-/* 修改头像尺寸，不要圆角 */
+/* 头像设置 */
 .avatar {
   display: block !important;
-  width: 250px !important;     /* 你想要的宽度 */
-  height: 550px !important;    /* 你想要的高度 */
+  width: 250px !important;    /* 你想要的尺寸 */
+  height: 550px !important;
   object-fit: cover !important;
-  border-radius: 0 !important; /* 保持长方形 */
-  margin: 0 auto;              /* 居中 */
+  border-radius: 0 !important;
+  margin: 0 auto;
 }
 
