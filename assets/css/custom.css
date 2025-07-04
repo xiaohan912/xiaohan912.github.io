@@ -105,4 +105,14 @@ article.prose {
 }
 
 /* ================= 个人头像样式 ================= */
+/* 放开头像 HTML 属性限制 */
+img.avatar {
+  width: auto !important;
+  height: auto !important;
+  max-width: none !important;
+}
 
+/* 如果想指定一个更大的最大宽度 */
+.avatar-wrapper {
+  max-width: 200px !important;
+}
