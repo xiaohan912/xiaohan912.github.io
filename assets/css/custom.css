@@ -105,23 +105,4 @@ article.prose {
 }
 
 /* ================= 个人头像样式 ================= */
-/* 解除外层 div 限制 */
-.resume-biography > div.flex-none {
-  flex: initial !important;
-  max-width: none !important;
-  width: auto !important;
-}
-
-/* 覆盖 img 的 HTML属性宽高 */
-.avatar {
-  width: 250px !important;
-  height: 550px !important;
-  object-fit: cover !important;
-  border-radius: 0 !important;
-}
-
-/* 特别要覆盖 Tailwind 的 rounded-full */
-.avatar.rounded-full {
-  border-radius: 0 !important;
-}
 
