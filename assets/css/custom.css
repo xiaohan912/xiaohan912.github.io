@@ -109,7 +109,7 @@ article.prose {
 .avatar {
   display: block;
   width: 250px !important;      /* 或你想要的宽度 */
-  height: 350px !important;     /* 或你想要的高度 */
+  height: 550px !important;     /* 或你想要的高度 */
   object-fit: cover;
   border-radius: 0;
   margin: 0 auto;               /* 水平居中 */
