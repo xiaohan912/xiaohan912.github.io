@@ -105,21 +105,21 @@ article.prose {
 }
 
 /* ================= 个人头像样式 ================= */
-/* 先把外层容器放开所有尺寸限制 */
-.avatar-wrapper {
-  width: auto !important;
-  height: auto !important;
+/* 解除外层容器的宽度限制 */
+.resume-biography > div {
   max-width: none !important;
-  max-height: none !important;
+  width: auto !important;
+  flex: none !important;
 }
 
-/* 再把头像本身设为块级，并指定尺寸 */
+
+/* 修改头像尺寸，不要圆角 */
 .avatar {
   display: block !important;
-  width: 250px !important;      /* 改成你想要的宽度 */
-  height: 550px !important;     /* 改成你想要的高度 */
-  object-fit: cover !important; /* 保证不拉伸 */
-  border-radius: 0 !important;  /* 保持长方形 */
-  margin: 0 auto;               /* 水平居中 */
+  width: 250px !important;     /* 你想要的宽度 */
+  height: 550px !important;    /* 你想要的高度 */
+  object-fit: cover !important;
+  border-radius: 0 !important; /* 保持长方形 */
+  margin: 0 auto;              /* 居中 */
 }
 
