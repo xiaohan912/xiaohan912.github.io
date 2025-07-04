@@ -105,16 +105,3 @@ article.prose {
 }
 
 /* ================= 个人头像样式 ================= */
-/* 取消 img 的内联尺寸限制 */
-img.avatar {
-  width: auto !important;
-  height: auto !important;
-  max-width: none !important;
-}
-
-/* 如果父容器有 max-width，也可以放开 */
-.avatar-wrapper,
-.resume-biography .flex-none {
-  max-width: none !important;
-}
-
