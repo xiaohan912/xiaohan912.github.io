@@ -103,3 +103,12 @@ article.prose {
     width: 100%;
   }
 }
+
+/* ================= 个人头像样式 ================= */
+.avatar {
+  width: 200px !important;    /* 宽度 */
+  height: 250px !important;   /* 高度 */
+  object-fit: cover;          /* 按比例裁剪，避免拉伸 */
+  border-radius: 0;           /* 不要圆角，保持矩形 */
+}
+
