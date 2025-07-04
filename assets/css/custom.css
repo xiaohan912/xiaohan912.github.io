@@ -106,11 +106,12 @@ article.prose {
 
 /* ================= 个人头像样式 ================= */
 /* 解除外层容器的宽度限制 */
-.resume-biography > div {
+.resume-biography > div:first-child {
   max-width: none !important;
   width: auto !important;
-  flex: none !important;
+  flex: initial !important;
 }
+
 
 
 /* 修改头像尺寸，不要圆角 */
