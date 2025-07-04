@@ -105,10 +105,22 @@ article.prose {
 }
 
 /* ================= 个人头像样式 ================= */
+/* 确保头像是块级元素，占满容器 */
 .avatar {
-  width: 200px !important;    /* 宽度 */
-  height: 250px !important;   /* 高度 */
-  object-fit: cover;          /* 按比例裁剪，避免拉伸 */
-  border-radius: 0;           /* 不要圆角，保持矩形 */
+  display: block;
+  width: 250px !important;      /* 或你想要的宽度 */
+  height: 350px !important;     /* 或你想要的高度 */
+  object-fit: cover;
+  border-radius: 0;
+  margin: 0 auto;               /* 水平居中 */
 }
+
+/* 确保头像外层容器有足够空间 */
+.avatar-wrapper {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: hidden;   /* 防止溢出 */
+}
+
 
