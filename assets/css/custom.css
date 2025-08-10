@@ -121,6 +121,7 @@ article.prose {
   padding-right: 1rem;
 }
 
+/* 左边标题字体加粗且不换行 */
 .teaching-page .left-column h2 {
   font-size: 1.75rem;
   font-weight: 700;
