@@ -106,22 +106,28 @@ article.prose {
 
 /* ================= Teaching 页面 ================= */
 
-/* 1) 只在包含 Teaching 模块的页面，把窄容器放宽并左对齐 */
-.prose:has(.teaching-page),
-.max-w-prose:has(.teaching-page),
-.container:has(.teaching-page) {
-  max-width: 1100px !important;   /* 和你站点宽度一致 */
-  text-align: left !important;     /* 防止文字居中 */
+/* 让 Teaching 页的外层不居中（覆盖 tailwind 的 justify-center/flex） */
+.page-body .max-w-prose.mx-auto.flex.justify-center {
+  display: block !important;              /* 取消 flex 布局，最干脆 */
+  justify-content: flex-start !important; /* 兜底：即便还是 flex 也靠左 */
+  max-width: 1100px !important;           /* 与全站宽度一致 */
+  text-align: left !important;
 }
 
-/* 2) Teaching 页面左右两栏（仿照 research-page） */
+/* 确保文章本体贴左而不是自我居中 */
+.page-body .max-w-prose article.prose {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+  align-self: flex-start !important;
+}
+
+/* Teaching 页布局 + 强制逐条换行（和 research 一致的两栏） */
 .teaching-page {
   display: flex;
   flex-wrap: nowrap;
-  align-items: flex-start !important;  /* 顶部对齐，防止垂直居中 */
+  align-items: flex-start !important;
   margin-top: 2rem;
 }
-
 .teaching-page .left-column {
   width: 20%;
   min-width: 120px;
@@ -135,26 +141,16 @@ article.prose {
   padding-top: 1.4rem;
   white-space: nowrap;
 }
-
-/* 3) 右栏：强制逐条换行 + 可控间距（覆盖大行高） */
 .teaching-page .right-column {
   width: 80%;
   padding-left: 3rem;
-  display: flex;
+  display: flex;               /* 强制每条换行 */
   flex-direction: column;
-  gap: 6px;         /* 行间距按需调 4px/8px */
-  line-height: 1.5; /* 比 research 更紧凑 */
+  gap: 6px;                    /* 行距可调 4px/8px */
+  line-height: 1.5;
 }
-
-/* 4) 小屏适配 */
 @media (max-width: 768px) {
-  .teaching-page {
-    flex-direction: column;
-  }
+  .teaching-page { flex-direction: column; }
   .teaching-page .left-column,
-  .teaching-page .right-column {
-    width: 100%;
-    padding-left: 0;
-  }
+  .teaching-page .right-column { width: 100%; padding-left: 0; }
 }
-
