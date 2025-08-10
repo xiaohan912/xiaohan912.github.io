@@ -106,45 +106,47 @@ article.prose {
 
 /* ================= Teaching 页面 ================= */
 
-/* Teaching 页面整体布局，仿照 research-page */
+/* 1) 只在包含 Teaching 模块的页面，把窄容器放宽并左对齐 */
+.prose:has(.teaching-page),
+.max-w-prose:has(.teaching-page),
+.container:has(.teaching-page) {
+  max-width: 1100px !important;   /* 和你站点宽度一致 */
+  text-align: left !important;     /* 防止文字居中 */
+}
+
+/* 2) Teaching 页面左右两栏（仿照 research-page） */
 .teaching-page {
   display: flex;
-  flex-wrap: nowrap; /* 不折行 */
-  align-items: flex-start;
+  flex-wrap: nowrap;
+  align-items: flex-start !important;  /* 顶部对齐，防止垂直居中 */
   margin-top: 2rem;
 }
 
-/* 左边标题栏 */
 .teaching-page .left-column {
   width: 20%;
   min-width: 120px;
   padding-right: 1rem;
 }
-
 .teaching-page .left-column h2 {
   font-size: 1.75rem;
   font-weight: 700;
   margin: 0;
   line-height: 1;
-  padding-top: 1.4rem; /* 对齐细调 */
+  padding-top: 1.4rem;
   white-space: nowrap;
 }
 
-/* 右边正文栏：强制每条换行 */
+/* 3) 右栏：强制逐条换行 + 可控间距（覆盖大行高） */
 .teaching-page .right-column {
   width: 80%;
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-  font-size: 1rem;
-  line-height: 1.5; /* 比 research-page 更紧凑 */
   padding-left: 3rem;
-
-  /* 让每条强制换行：用块级布局 */
   display: flex;
   flex-direction: column;
-  gap: 6px; /* 行距可调 */
+  gap: 6px;         /* 行间距按需调 4px/8px */
+  line-height: 1.5; /* 比 research 更紧凑 */
 }
 
-/* 小屏幕适配 */
+/* 4) 小屏适配 */
 @media (max-width: 768px) {
   .teaching-page {
     flex-direction: column;
@@ -155,3 +157,4 @@ article.prose {
     padding-left: 0;
   }
 }
+

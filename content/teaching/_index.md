@@ -13,5 +13,4 @@ title: ""
     <div><span style="font-size: smaller;">Teaching Assistant, 2025 Fall</span></div>
   </div>
 </div>
-
 <hr>
