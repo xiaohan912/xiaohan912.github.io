@@ -152,5 +152,6 @@ article.prose {
 }
 
 .prose .teaching-page .right-column p {
-  margin-top: 0.2em !important;
+  margin-top: 0.3em !important;
+  margin-bottom: 0.3em !important;
 }
