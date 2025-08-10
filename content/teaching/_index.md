@@ -19,3 +19,13 @@ Chengtao Deng, Mengfu Han, Jun Luo, Junjie Zhang (2025).
 </div>
 
 <hr>
+
+<!-- Reports 区块 -->
+<div class="teaching-page">
+  <div class="left-column">
+    <h2></h2>
+  </div>
+  <div class="right-column">
+
+  </div>
+</div>
