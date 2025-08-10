@@ -138,8 +138,6 @@ article.prose {
   font-size: 1rem;
   line-height: 1.5; /* 缩小行距 */
   padding-left: 3rem;
-  margin-top: 0;   /* 调小段落上边距 */
-  margin-bottom: 0;/* 调小段落下边距 */
 }
 
 /* 小屏幕适配 */
@@ -151,4 +149,9 @@ article.prose {
   .teaching-page .right-column {
     width: 100%;
   }
+}
+
+.prose .teaching-page .right-column p {
+  margin-top: 0.4em !important;
+  margin-bottom: 0.4em !important;
 }
