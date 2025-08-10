@@ -9,8 +9,8 @@ title: ""
   </div>
   <div class="right-column">
 
-Applied Microeconomic Principles (AAEC 2580)
-Instructor: [Travis A. Smith](https://sites.google.com/view/travisasmith/home)
+Applied Microeconomic Principles (AAEC 2580)<br>
+Instructor: [Travis A. Smith](https://sites.google.com/view/travisasmith/home)<br>
 <span style="font-size: smaller;">Teaching Assistant, 2025 Fall</span>
 
   </div>
