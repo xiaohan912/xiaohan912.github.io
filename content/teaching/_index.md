@@ -10,7 +10,9 @@ title: ""
   <div class="right-column">
 
 Applied Microeconomic Principles (AAEC 2580)
+
 <span style="font-size: smaller;">Teaching Assistant, 2025 Fall<span>
+
 Instructor: [Travis A. Smith](https://sites.google.com/view/travisasmith/home)
 
   </div>
