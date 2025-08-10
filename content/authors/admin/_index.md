@@ -45,7 +45,7 @@ education:
     institution: B.A. in Economics, 2020
 ---
 
-I am an incoming Ph.D. student in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://www.uga.edu/).
+I am an Ph.D. student in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://www.uga.edu/).
 
 My research focuses on assessing the climate risks, including physical and transition risks faced by rural banks and the effectiveness of adaptation by farmers and small and medium-sized enterprises (SMEs) to climate change.
 
