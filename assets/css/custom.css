@@ -105,45 +105,46 @@ article.prose {
 }
 
 /* ================= Teaching 页面 ================= */
-.research-page,
+
+/* Teaching 页面整体布局，仿照 research-page */
 .teaching-page {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap; /* 不折行 */
   align-items: flex-start;
   margin-top: 2rem;
 }
-.research-page .left-column,
+
+/* 左边标题栏 */
 .teaching-page .left-column {
   width: 20%;
   min-width: 120px;
   padding-right: 1rem;
 }
-.research-page .left-column h2,
+
 .teaching-page .left-column h2 {
   font-size: 1.75rem;
   font-weight: 700;
   margin: 0;
   line-height: 1;
-  padding-top: 1.4rem;
+  padding-top: 1.4rem; /* 对齐细调 */
   white-space: nowrap;
 }
 
-/* 右栏：竖排每条 + 控制间距（覆盖原 1.75 的行高） */
-.research-page .right-column,
+/* 右边正文栏：强制每条换行 */
 .teaching-page .right-column {
   width: 80%;
-  padding-left: 2rem;   /* 原是 3rem，略收紧 */
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5; /* 比 research-page 更紧凑 */
+  padding-left: 3rem;
+
+  /* 让每条强制换行：用块级布局 */
   display: flex;
   flex-direction: column;
-  gap: 6px;             /* 行间距，想更紧凑可调 4px/2px */
-  line-height: 1.5;     /* 行高更紧凑 */
+  gap: 6px; /* 行距可调 */
 }
 
-/* 右栏内每条清零外边距（可选） */
-.research-page .right-column .item,
-.teaching-page .right-column .item { margin: 0; }
-
-/* 小屏自适应 */
+/* 小屏幕适配 */
 @media (max-width: 768px) {
   .teaching-page {
     flex-direction: column;

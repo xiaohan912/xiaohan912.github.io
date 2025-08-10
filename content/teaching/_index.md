@@ -8,11 +8,10 @@ title: ""
     <h2>Teaching</h2>
   </div>
   <div class="right-column">
-    <div class="item">Applied Microeconomic Principles (AAEC 2580).</div>
-    <div class="item">Instructor:
-      <a href="https://sites.google.com/view/travisasmith/home">Travis A. Smith</a>.
-    </div>
-    <div class="item"><em>Teaching Assistant, 2025 Fall</em>.</div>
+    <div>Applied Microeconomic Principles (AAEC 2580)</div>
+    <div>Instructor: <a href="https://sites.google.com/view/travisasmith/home">Travis A. Smith</a></div>
+    <div><span style="font-size: smaller;">Teaching Assistant, 2025 Fall</span></div>
   </div>
 </div>
+
 <hr>
