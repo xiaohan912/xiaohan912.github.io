@@ -1,30 +1,26 @@
+---
+title: ""
+---
+
 <!-- Teaching 区块 -->
 <div class="teaching-page">
   <div class="left-column">
     <h2>Teaching</h2>
   </div>
-
   <div class="right-column">
 
-    <!-- 课程 1 -->
-    <h3>Applied Microeconomic Principles (AAEC 2580)</h3>
-    <p><span style="font-size: smaller;">Teaching Assistant, Fall 2025</span></p>
-    <p>Instructor:
-      <a href="https://sites.google.com/view/travisasmith/home" target="_blank">
-        Travis A. Smith
-      </a>
-    </p>
+Applied Microeconomic Principles (AAEC 2580)
 
-    <hr>
+<span style="font-size: smaller;">Teaching Assistant, 2025 Fall<span>
 
-    <!-- 课程 2 -->
-    <h3>Applied Microeconomic Principles (AAEC 2580)</h3>
-    <p><span style="font-size: smaller;">Teaching Assistant, Fall 2025</span></p>
-    <p>Instructor:
-      <a href="https://sites.google.com/view/travisasmith/home" target="_blank">
-        Travis A. Smith
-      </a>
-    </p>
+Instructor: [Travis A. Smith](https://sites.google.com/view/travisasmith/home)
+
+Applied Microeconomic Principles (AAEC 2580)
+
+<span style="font-size: smaller;">Teaching Assistant, 2025 Fall<span>
+
+Instructor: [Travis A. Smith](https://sites.google.com/view/travisasmith/home)
 
   </div>
 </div>
+
