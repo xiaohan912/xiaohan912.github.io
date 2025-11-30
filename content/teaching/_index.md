@@ -9,11 +9,11 @@ title: ""
   </div>
   <div class="right-column">
 
-Applied Microeconomic Principles (AAEC 2580)
+Special Topics in Agricultural and Applied Economics (AAEC 4990)
 
-<span style="font-size: smaller;">Teaching Assistant, 2025 Fall<span>
+<span style="font-size: smaller;">Teaching Assistant, 2026 Spring<span>
 
-Instructor: [Travis A. Smith](https://sites.google.com/view/travisasmith/home)
+Instructor: [Hyojung "Julie" Jung](https://agecon.uga.edu/people/faculty/julie-jung.html)
 
 <br><br>
 
