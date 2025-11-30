@@ -15,6 +15,8 @@ Applied Microeconomic Principles (AAEC 2580)
 
 Instructor: [Travis A. Smith](https://sites.google.com/view/travisasmith/home)
 
+<br><br>
+
 Applied Microeconomic Principles (AAEC 2580)
 
 <span style="font-size: smaller;">Teaching Assistant, 2025 Fall<span>
