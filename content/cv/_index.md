@@ -5,7 +5,7 @@ title: ""
 <style>
   /* 让CV页面使用全宽布局 */
   .cv-container {
-    width: 80vw;
+    width: 60vw;
     height: calc(100vh - 80px);
     margin-left: calc(-50vw + 50%);
     padding: 0;
