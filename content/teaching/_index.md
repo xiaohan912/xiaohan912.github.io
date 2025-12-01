@@ -11,7 +11,7 @@ title: ""
 
 Special Topics in Agricultural and Applied Economics (AAEC 4990)
 
-<span style="font-size: smaller;">Teaching Assistant, 2026 Spring<span>
+<span style="font-size: smaller;">Teaching Assistant, 2026 Spring</span>
 
 Instructor: [Hyojung "Julie" Jung](https://agecon.uga.edu/people/faculty/julie-jung.html)
 
@@ -19,10 +19,9 @@ Instructor: [Hyojung "Julie" Jung](https://agecon.uga.edu/people/faculty/julie-j
 
 Applied Microeconomic Principles (AAEC 2580)
 
-<span style="font-size: smaller;">Teaching Assistant, 2025 Fall<span>
+<span style="font-size: smaller;">Teaching Assistant, 2025 Fall</span>
 
 Instructor: [Travis A. Smith](https://sites.google.com/view/travisasmith/home)
 
   </div>
 </div>
-
