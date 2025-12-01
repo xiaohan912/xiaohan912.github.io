@@ -1,18 +1,19 @@
 ---
-title: ""
+title: "CV"
 ---
 
 <style>
-  /* 让CV页面与其他页面保持一致的宽度 */
+  /* 让CV页面使用全宽布局 */
   .cv-container {
-    max-width: 1100px;
-    margin: 2rem auto;
-    padding: 0 1rem;
+    width: 90vw;
+    height: calc(100vh - 80px);
+    margin-left: calc(-50vw + 50%);
+    padding: 0;
   }
   
   .cv-container iframe {
     width: 100%;
-    height: calc(100vh - 150px);
+    height: 100%;
     border: none;
   }
 </style>
