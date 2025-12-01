@@ -1,32 +1,23 @@
 ---
-title: "CV"
+# Leave the homepage title empty to use the site title
+title: "Mengfu Han"
+date: 2025-04-20
+type: landing
+
+design:
+  # Default section spacing
+  spacing: "6rem"
+
+sections:
+  - block: resume-biography-3
+    demo: false # 添加 demo 属性，避免模板报错
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: /CV_202508.pdf
+      
 ---
-
-<style>
-  /* 让CV页面居中显示 */
-  .cv-container {
-    width: 100%;
-    max-width: 60vw;
-    height: calc(100vh - 80px);
-    margin: 0 auto;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-  }
-  
-  .cv-container iframe {
-    width: 100%;
-    max-width: 1400px; /* 可调整最大宽度 */
-    height: 100%;
-    border: none;
-  }
-</style>
-
-<div class="cv-container">
-  <iframe 
-    src="/CV_202508.pdf" 
-    type="application/pdf">
-    <p>Your browser does not support PDFs. 
-       <a href="/CV_202508.pdf">Download the PDF</a>.</p>
-  </iframe>
-</div>
