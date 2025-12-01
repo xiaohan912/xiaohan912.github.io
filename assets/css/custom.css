@@ -91,6 +91,12 @@ article.prose {
   line-height: 1.75;
 }
 
+/* Research 页面段落间距控制 */
+.prose .research-page .right-column p {
+  margin-top: 0.4em !important;
+  margin-bottom: 0.4em !important;
+}
+
 /* Research 页面：小屏幕自适应 */
 @media (max-width: 768px) {
   .research-page {
@@ -137,6 +143,12 @@ article.prose {
   line-height: 1.75;
 }
 
+/* Teaching 页面段落间距控制 */
+.prose .teaching-page .right-column p {
+  margin-top: 0.4em !important;
+  margin-bottom: 0.4em !important;
+}
+
 /* 小屏幕适配 */
 @media (max-width: 768px) {
   .teaching-page {
@@ -146,9 +158,4 @@ article.prose {
   .teaching-page .left-column {
     width: 100%;
   }
-}
-
-.prose .teaching-page .right-column p {
-  margin-top: 0.4em !important;
-  margin-bottom: 0.4em !important;
 }
