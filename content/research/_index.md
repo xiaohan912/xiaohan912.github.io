@@ -9,9 +9,9 @@ title: ""
   </div>
   <div class="right-column">
 
-Chengtao Deng, Mengfu Han, Jun Luo, Junjie Zhang (2025).<br>
-[The impact of weather shocks on rural credit cooperatives](https://www.sciencedirect.com/science/article/pii/S1544612325001370).<br>
-<span style="font-size: smaller;">*Finance Research Letters*.</span>
+Chengtao Deng, Mengfu Han, Jun Luo, Junjie Zhang (2025)<br>
+[The impact of weather shocks on rural credit cooperatives](https://www.sciencedirect.com/science/article/pii/S1544612325001370)<br>
+<span style="font-size: smaller;">*Finance Research Letters*</span>
 
   </div>
 </div>
@@ -25,15 +25,15 @@ Chengtao Deng, Mengfu Han, Jun Luo, Junjie Zhang (2025).<br>
   </div>
   <div class="right-column">
 
-Mengfu Han, Fei Xie, Junjie Zhang (2024).<br>
-[Cross-border Market Linkages in Asia and the Pacific](https://www.adb.org/sites/default/files/institutional-document/1007506/apcr2024bp-cross-border-carbon-market-linkages-asia-pacific.pdf).<br>
-<span style="font-size: smaller;">*Asian Development Bank*.</span>
+Mengfu Han, Fei Xie, Junjie Zhang (2024)<br>
+[Cross-border Market Linkages in Asia and the Pacific](https://www.adb.org/sites/default/files/institutional-document/1007506/apcr2024bp-cross-border-carbon-market-linkages-asia-pacific.pdf)<br>
+<span style="font-size: smaller;">*Asian Development Bank*</span>
 
-<br><br>
+<br>
 
-Junjie Zhang, Fei Xie, Minjun Chang, Yufei Dai, Mengfu Han (2024).<br>
-[Enhancing a Just Transition Finance System for Carbon-Intensive Industries](https://library.fes.de/pdf-files/bueros/china/21592.pdf).<br>
-<span style="font-size: smaller;">*Friedrich-Ebert-Stiftung*.</span>
+Junjie Zhang, Fei Xie, Minjun Chang, Yufei Dai, Mengfu Han (2024)<br>
+[Enhancing a Just Transition Finance System for Carbon-Intensive Industries](https://library.fes.de/pdf-files/bueros/china/21592.pdf)<br>
+<span style="font-size: smaller;">*Friedrich-Ebert-Stiftung*</span>
 
   </div>
 </div>
