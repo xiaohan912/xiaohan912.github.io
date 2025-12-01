@@ -16,20 +16,38 @@ body a:hover {
 .page-wrapper,
 .container,
 .max-w-prose {
-  max-width: 1000px !important; /* 可根据需要改为 1200px/1280px */
+  max-width: 900px !important; /* 可根据需要改为 1200px/1280px */
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
-/* 导航栏居中对齐并拉宽 */
+/* ================= 导航栏高度调整 ================= */
+
+/* 导航栏居中对齐并拉宽，同时减小高度 */
 .header .navbar {
-  max-width: 1000px !important;
+  max-width: 900px !important;
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
+  padding-top: 0.5rem !important;    /* 减小上内边距 */
+  padding-bottom: 0.5rem !important; /* 减小下内边距 */
+  min-height: auto !important;       /* 取消最小高度限制 */
+}
+
+/* 减小导航栏整体高度 */
+.header {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* 调整导航栏内部链接的行高 */
+.navbar a {
+  line-height: 1.2 !important;
+  padding-top: 0.25rem !important;
+  padding-bottom: 0.25rem !important;
 }
 
 /* 首页正文区域不限制最大宽度 */
@@ -69,7 +87,6 @@ article.prose {
 /* 左边标题栏区域 */
 .research-page .left-column {
   width: 20%;
-  min-width: 120px;
   padding-right: 1rem;
 }
 
@@ -88,9 +105,15 @@ article.prose {
 .research-page .right-column {
   width: 80%;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-  font-size: 1rem; /* 小屏幕 16px */
-  line-height: 1.75;
+  font-size: 1rem;
+  line-height: 1.5; /* 改为和 teaching 一致 */
   padding-left: 3rem;
+}
+
+/* Research 页面段落间距控制 */
+.prose .research-page .right-column p {
+  margin-top: 0.4em !important;
+  margin-bottom: 0.4em !important;
 }
 
 /* Research 页面：小屏幕自适应 */
@@ -117,7 +140,6 @@ article.prose {
 /* 左边标题栏 */
 .teaching-page .left-column {
   width: 20%;
-  min-width: 120px;
   padding-right: 1rem;
 }
 
