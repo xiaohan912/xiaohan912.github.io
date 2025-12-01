@@ -50,11 +50,6 @@ body a:hover {
   padding-bottom: 0.25rem !important;
 }
 
-/* 首页正文区域不限制最大宽度 */
-article.prose {
-  max-width: 100% !important;
-}
-
 /* ================= 首页 Biography 部分 ================= */
 
 /* 教育经历列表：每条之间统一间距 */
@@ -86,7 +81,7 @@ article.prose {
 
 /* 左边标题栏区域 */
 .research-page .left-column {
-  width: 20%;
+  width: 30%;
   padding-right: 1rem;
 }
 
@@ -103,7 +98,7 @@ article.prose {
 
 /* 右边正文区域 */
 .research-page .right-column {
-  width: 80%;
+  width: 70%;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   font-size: 1rem;
   line-height: 1.5; /* 改为和 teaching 一致 */
@@ -139,7 +134,7 @@ article.prose {
 
 /* 左边标题栏 */
 .teaching-page .left-column {
-  width: 20%;
+  width: 30%;
   padding-right: 1rem;
 }
 
@@ -155,7 +150,7 @@ article.prose {
 
 /* 右边正文栏（比 research-page 缩小行距） */
 .teaching-page .right-column {
-  width: 80%;
+  width: 70%;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   font-size: 1rem;
   line-height: 1.5; /* 缩小行距 */
