@@ -3,20 +3,30 @@ title: "CV"
 ---
 
 <style>
-  /* 让CV页面居中显示 */
+  /* 覆盖页面容器的限制 */
+  .page-body,
+  .page-wrapper {
+    max-width: none !important;
+    padding: 0 !important;
+  }
+  
+  /* CV容器居中 */
   .cv-container {
-    width: 100%;
-    max-width: 60vw;
+    width: 100vw;
     height: calc(100vh - 80px);
-    margin: 0 auto;
-    padding: 0;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
     display: flex;
     justify-content: center;
+    align-items: center;
   }
   
   .cv-container iframe {
-    width: 100%;
-    max-width: 1400px; /* 可调整最大宽度 */
+    width: 90%;
+    max-width: 1400px;
     height: 100%;
     border: none;
   }
