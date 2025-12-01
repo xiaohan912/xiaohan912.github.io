@@ -16,7 +16,7 @@ body a:hover {
 .page-wrapper,
 .container,
 .max-w-prose {
-  max-width: 900px !important; /* 可根据需要改为 1200px/1280px */
+  max-width: 1100px !important; /* 可根据需要改为 1200px/1280px */
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 1rem;
@@ -25,7 +25,7 @@ body a:hover {
 
 /* 导航栏居中对齐并拉宽 */
 .header .navbar {
-  max-width: 900px !important;
+  max-width: 1100px !important;
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 0.5rem;
