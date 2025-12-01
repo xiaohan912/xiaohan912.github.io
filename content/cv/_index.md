@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: ""
 ---
 
 <style>
@@ -26,7 +26,7 @@ title: "CV"
   
   .cv-container iframe {
     width: 90%;
-    max-width: 1400px;
+    max-width: 1300px;
     height: 100%;
     border: none;
   }
