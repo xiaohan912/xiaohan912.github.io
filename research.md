@@ -63,7 +63,7 @@ permalink: /research/
 
 * [**Difference-in-Differences when Parallel Trends Holds Conditional on Covariates**](/files/DID-Covariates/Caetano_Callaway_2026.pdf) [[Supplementary Appendix](/files/DID-Covariates/CC2026_Supplementary_Appendix.pdf)] [[arXiv](https://arxiv.org/abs/2406.15288)] (with Carolina Caetano, revise and resubmit)
 
-* [**Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility**](/files/Two-Sided-Measurement-Error/Callaway_Li_Murtazashvili_Tsyawo_2025.pdf) [[Supplementary Appendix](/files/Two-Sided-Measurement-Error/CLMT_Supplementary_Appendix.pdf)] [[arXiv](https://arxiv.org/abs/2107.09235)] (with Tong Li, Irina Murtazashvili, and Emmanuel Tsyawo, revise and resubmit)
+* [**Distributional Effects with Two-Sided Measurement Error: An Application to Intergenerational Income Mobility**](/files/Two-Sided-Measurement-Error/Callaway_Li_Murtazashvili_Tsyawo_2026_R2.pdf) [[Supplementary Appendix](/files/Two-Sided-Measurement-Error/CLMT_R2_Supplementary_Appendix.pdf)] [[arXiv](https://arxiv.org/abs/2107.09235)] (with Tong Li, Irina Murtazashvili, and Emmanuel Tsyawo, revise and resubmit)
 
 * [**Difference-in-Differences with a Continuous Treatment**](https://arxiv.org/abs/2107.02637) [[5 Minute Summary](/posts/five-minute-did-continuous-treatment)] [[Slides](/files/DID-Continuous-Treatment/slides/did_reading_group.html)] [[Supplementary Appendix](https://pedrohcgs.github.io/files/CGBS_supp_v3.pdf)] (with Andrew Goodman-Bacon and Pedro H.C. Sant'Anna, conditionally accepted)
 
