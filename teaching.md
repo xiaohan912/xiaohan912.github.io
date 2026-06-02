@@ -16,8 +16,8 @@ Ph.D. 2nd Semester Econometrics, 2017-2026
 
 Difference-in-differences:
 
-* University of Iowa, 2026 (scheduled)
-* University of Virginia Quantitative Collaborative, 2026 (scheduled)
+* University of Iowa, 2026
+* University of Virginia Quantitative Collaborative, 2026
 * Camp Resources XXXI, 2025
 * Clemson University, 2025
 * Agricultural & Applied Economics Association Annual Meeting, 2024
