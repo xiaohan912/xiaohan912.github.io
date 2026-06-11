@@ -1,6 +1,8 @@
 Mengfu Han:
   name        : "Mengfu Han"
-  bio         : "Ph.D. Candidate, University of Georgia"
+  bio         : |
+    Ph.D. Candidate
+    University of Georgia
   avatar      : "/assets/images/avatar.jpg"
   links:
     - label: "Email"

@@ -142,7 +142,7 @@
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
-  line-height: 1;
+  line-height: 1.35;
 
   @include breakpoint($large) {
     display: block;
@@ -172,6 +172,7 @@
 
 .author__bio {
   margin: 0;
+  line-height: 1.45;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -310,6 +311,18 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+
+    i {
+      width: 1.5em;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+    .label {
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1.35;
+    }
 
     &:hover {
       text-decoration: underline;
