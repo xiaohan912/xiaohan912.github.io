@@ -4,29 +4,18 @@ title: Teaching
 permalink: /teaching/
 ---
 
-**Regular Teaching**
+<style>
+  .publication-journal {
+    display: block;
+    line-height: 1.3;
+    margin-top: 4px;
+  }
+</style>
 
-Introduction to Econometrics, 2017-2025
+**Teaching Assistant**
 
-Ph.D. Probability and Statistics, 2019 & 2022
+1. Special Topics in Agricultural and Applied Economics (AAEC 4990) (Instructor: [Hyojung "Julie" Jung](https://agecon.uga.edu/people/faculty/julie-jung.html))
+    <small class="publication-journal">***2026 Spring***</small>
 
-Ph.D. 2nd Semester Econometrics, 2017-2026
-
-**Short Courses**
-
-Difference-in-differences:
-
-* University of Iowa, 2026
-* University of Virginia Quantitative Collaborative, 2026
-* Camp Resources XXXI, 2025
-* Clemson University, 2025
-* Agricultural & Applied Economics Association Annual Meeting, 2024
-* Bank of Portugal, 2024
-* Centers for Disease Control and Prevention, 2024
-* Louisiana State University, 2024
-* University of Notre Dame, 2024
-* University of Georgia, 2024 (2x)
-* Mixtape Sessions, Frontiers in Difference-in-Differences, 2023
-* Northwestern Causal Inference Workshop, 2023
-* Fondazione Eni Enrico Mattei (FEEM), 2021
-* University of Louisiana at Lafayette, 2020
+2. Applied Microeconomic Principles (AAEC 2580)(Instructor: [Travis A. Smith](https://sites.google.com/view/travisasmith/home))
+    <small class="publication-journal">***2025 Fall***</small>
