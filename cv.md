@@ -20,9 +20,9 @@ permalink: /cv/
   }
   
   .cv-container iframe {
-    width: 75%;
-    max-width: 900px;
-    height: 600px;
+    width: 85%;
+    max-width: 1100px;
+    height: 700px;
     border: none;
   }
 </style>
