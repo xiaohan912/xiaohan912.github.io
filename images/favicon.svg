@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Site icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Site icon">
   <defs>
     <clipPath id="shieldClip">
-      <path d="M86 38h340c18 0 32 14 32 32v218c0 117-79 173-202 204C133 461 54 405 54 288V70c0-18 14-32 32-32z"/>
+      <path d="M96 48h320c18 0 32 14 32 32v208c0 108-73 161-192 191C119 449 46 396 46 288V80c0-18 14-32 32-32z"/>
     </clipPath>
   </defs>
-  <path d="M86 38h340c18 0 32 14 32 32v218c0 117-79 173-202 204C133 461 54 405 54 288V70c0-18 14-32 32-32z" fill="#000"/>
-  <path d="M86 38h340c18 0 32 14 32 32v218c0 117-79 173-202 204C133 461 54 405 54 288V70c0-18 14-32 32-32z" fill="none" stroke="#fff" stroke-width="16"/>
+  <path d="M96 48h320c18 0 32 14 32 32v208c0 108-73 161-192 191C119 449 46 396 46 288V80c0-18 14-32 32-32z" fill="#000"/>
+  <path d="M96 48h320c18 0 32 14 32 32v208c0 108-73 161-192 191C119 449 46 396 46 288V80c0-18 14-32 32-32z" fill="none" stroke="#fff" stroke-width="16"/>
   <g clip-path="url(#shieldClip)">
-    <rect x="54" y="266" width="404" height="246" fill="#BA0C2F"/>
-    <path d="M121 199c0-75 60-136 135-136s135 61 135 136" fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
-    <path d="M114 194h284v34H114z" fill="#fff"/>
-    <rect x="136" y="228" width="52" height="176" rx="4" fill="#fff"/>
-    <rect x="230" y="228" width="52" height="176" rx="4" fill="#fff"/>
-    <rect x="324" y="228" width="52" height="176" rx="4" fill="#fff"/>
-    <path d="M178 404v-84l-24 24v-84l24-24v-8h10v176h-10zm94 0v-84l-24 24v-84l24-24v-8h10v176h-10zm94 0v-84l-24 24v-84l24-24v-8h10v176h-10z" fill="#fff"/>
-    <text x="256" y="472" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" fill="#fff">1785</text>
+    <rect x="46" y="258" width="420" height="250" fill="#BA0C2F"/>
+    <path d="M120 198c0-67 54-122 136-122s136 55 136 122" fill="none" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
+    <path d="M108 196h296v34H108z" fill="#fff"/>
+    <rect x="130" y="230" width="54" height="162" rx="4" fill="#fff"/>
+    <rect x="229" y="230" width="54" height="162" rx="4" fill="#fff"/>
+    <rect x="328" y="230" width="54" height="162" rx="4" fill="#fff"/>
+    <path d="M175 392v-78l-22 22v-78l22-22v-7h11v165h-11zm99 0v-78l-22 22v-78l22-22v-7h11v165h-11zm99 0v-78l-22 22v-78l22-22v-7h11v165h-11z" fill="#fff"/>
+    <text x="256" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="700" fill="#fff">1785</text>
   </g>
 </svg>
