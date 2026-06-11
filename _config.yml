@@ -4,9 +4,9 @@
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
-title: Brantly Callaway
+title: Mengfu Han
 subtitle: ""
-author: "Brantly Callaway"
+author: "Mengfu Han"
 defaults:
   # _posts
   - scope:

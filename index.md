@@ -7,36 +7,18 @@ author_profile: true
 
 <table style="width: 100%;">
   <tr>
-	<td style="width: 90%; border-bottom:0px;"><h1>Brantly Callaway</h1></td>
+	<td style="width: 90%; border-bottom:0px;"><h1>Mengfu Han</h1></td>
 	<td style="width: 10%; border-bottom:0px;"><img src="assets/images/uga-logo.png"/></td>
   </tr>
 </table>
 
-I am the P. George Benson Associate Professor of Economics at the University of Georgia.
+I am a Ph.D. candidate in the [Department of Agricultural and Applied Economics](https://agecon.uga.edu/) at the [University of Georgia](https://www.uga.edu/).
 
-My primary research interests are in Microeconometrics.  Most of my research has concerned how to use panel data (repeated observations on the same individual or firm over time) to think about causal effects of economic policies.  I have been particularly interested in developing methods related to understanding how effects of policies vary across different individuals.  I am also interested in applications in labor economics.  Specifically, I have worked on understanding the effects of job displacement, minimum wage policies, intergenerational mobility, and unions.
+My research focuses on assessing the climate risks, including physical and transition risks faced by rural banks and the effectiveness of adaptation by farmers and small and medium-sized enterprises (SMEs) to climate change.
 
-At UGA, I teach courses on econometrics, both to graduate and undergraduate students.
+Before joining the University of Georgia, I was a Research Fellow at the [Environmental Research Center](https://env.dukekunshan.edu.cn/) of [Duke Kunshan University](https://www.dukekunshan.edu.cn/).
 
 **<a href="files/Callaway-CV.pdf">Curriculum Vitae</a>**
 
 <br>
-
-**Recent Updates:**
-
-* [Slides for Workshop at the University of Virginia](https://bcallaway11.github.io/virginia)
-
-* New paper: [Beyond Parallel Trends: An Identification-Strategy-Robust Approach to Causal Inference with Panel Data](https://arxiv.org/abs/2511.21977) (with Derek Dyal, Pedro H.C. Sant'Anna, and Emmanuel Tsyawo)
-
-* New [contdid R package](https://bcallaway11.github.io/contdid/) for estimating treatment effects in difference-in-differences designs with a continuous treatment
-
-<br>
-
-**Contact Information:**
-
-Email: brantly.callaway [at] uga [dot] edu
-
-B422 Amos Hall
-
-Athens, GA 30605
 
