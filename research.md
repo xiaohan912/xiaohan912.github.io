@@ -21,7 +21,7 @@ permalink: /research/
 
 1. [**Cross-border Market Linkages in Asia and the Pacific**](https://www.adb.org/sites/default/files/institutional-document/1007506/apcr2024bp-cross-border-carbon-market-linkages-asia-pacific.pdf) (with Fei Xie and [Junjie Zhang](https://sites.nicholas.duke.edu/junjiezhang/))
     <small class="publication-journal">***Asian Development Bank***, 2024</small>
-    * Background paper for the (Asia-Pacific Climate Report 2024)[https://www.adb.org/documents/asia-pacific-climate-report-2024-background-papers]
+    * Background paper for the [Asia-Pacific Climate Report 2024](https://www.adb.org/documents/asia-pacific-climate-report-2024-background-papers)
 
 2. [**Enhancing a Just Transition Finance System for Carbon-Intensive Industries**](https://library.fes.de/pdf-files/bueros/china/21592.pdf) (with Minjun Chang, Yufei Dai, Fei Xie, and [Junjie Zhang](https://sites.nicholas.duke.edu/junjiezhang/))
     <small class="publication-journal">***Friedrich-Ebert-Stiftung***, 2024</small>
