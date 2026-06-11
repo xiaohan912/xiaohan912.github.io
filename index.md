@@ -67,7 +67,7 @@ My research focuses on assessing the climate risks, including physical and trans
 
 Before joining the University of Georgia, I was a Research Fellow at the [Environmental Research Center](https://env.dukekunshan.edu.cn/) of [Duke Kunshan University](https://www.dukekunshan.edu.cn/).
 
-<p style="margin-top: 1.5rem;"><a href="/files/CV_Mengfu_Han.pdf" class="btn btn--primary btn--large" style="background-color: #E4002B; border-color: #E4002B;">Download CV</a></p>
+<p style="margin-top: 3rem;"><a href="/files/CV_Mengfu_Han.pdf" class="btn btn--primary btn--large" style="background-color: #E4002B; border-color: #E4002B;">Download CV</a></p>
 
 <br>
 
