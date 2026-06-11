@@ -12,7 +12,7 @@ permalink: /teaching/
   }
 </style>
 
-**Teaching Assistant**
+## Teaching Assistant
 
 1. Special Topics in Agricultural and Applied Economics (AAEC 4990)
     <small class="publication-journal">**Instructor: [Hyojung "Julie" Jung](https://agecon.uga.edu/people/faculty/julie-jung.html)**, 2026 Spring</small>
