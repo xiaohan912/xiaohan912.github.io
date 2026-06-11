@@ -68,19 +68,6 @@ body {
   }
 }
 
-.page--full-width {
-  @include breakpoint($large) {
-    float: none;
-    width: 100%;
-    padding-right: 0;
-  }
-
-  @include breakpoint($x-large) {
-    width: 100%;
-    padding-right: 0;
-  }
-}
-
 .page__title {
   margin-top: 0;
   line-height: 1;
