@@ -44,5 +44,16 @@ html {
   }
 }
 
+.page__content a:not(.btn),
+.page__content a:not(.btn):visited,
+.page__content a:not(.btn):hover,
+.page__content a:not(.btn):focus {
+  color: #E4002B !important;
+}
+
+.page__content a:not(.btn):hover {
+  text-decoration: underline;
+}
+
 
 
