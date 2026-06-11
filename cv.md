@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CV
+title: 
 permalink: /cv/
 ---
 
@@ -12,22 +12,17 @@ permalink: /cv/
   }
   
   .cv-container {
-    width: 100vw;
-    height: calc(100vh - 80px);
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 20px;
+    min-height: 600px;
   }
   
   .cv-container iframe {
-    width: 90%;
-    max-width: 1300px;
-    height: 100%;
+    width: 75%;
+    max-width: 900px;
+    height: 600px;
     border: none;
   }
 </style>
