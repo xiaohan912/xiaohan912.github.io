@@ -32,9 +32,6 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.button %}
-          <p><a href="{{ page.button.url | relative_url }}" class="btn btn--primary btn--large">{{ page.button.text | default: "Learn More" }}</a></p>
-        {% endif %}
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
