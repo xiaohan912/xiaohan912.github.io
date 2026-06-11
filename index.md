@@ -75,17 +75,24 @@ Before joining the University of Georgia, I was a Research Fellow at the [Enviro
 	<div>
 		<h2>Interests</h2>
 		<ul>
-			<li>Climate risk and adaptation</li>
-			<li>Physical and transition risks in rural finance</li>
-			<li>Policy evaluation and applied econometrics</li>
+			<li>Environmental Economics</li>
+			<li>Agricultural Economics</li>
 		</ul>
 	</div>
 
 	<div>
 		<h2>Education</h2>
 		<div class="home-edu-item">
-			<span class="home-edu-degree">Ph.D. candidate in Agricultural and Applied Economics</span>
-			<span class="home-edu-school">University of Georgia</span>
+			<span class="home-edu-degree">University of Georgia</span>
+			<span class="home-edu-school">Ph.D. in Agricultural Economics, 2030 (expected)</span>
+		</div>
+		<div class="home-edu-item">
+			<span class="home-edu-degree">Renmin University of China</span>
+			<span class="home-edu-school">M.A. in Environmental Economics, 2022</span>
+		</div>
+		<div class="home-edu-item">
+			<span class="home-edu-degree">Wuhan Universtiy</span>
+			<span class="home-edu-school">B.A. in Economics, 2020</span>
 		</div>
 	</div>
 </div>
